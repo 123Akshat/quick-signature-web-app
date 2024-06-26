@@ -2,7 +2,7 @@
 
 # About
 
--I have developed an advanced HTML, CSS, and JavaScript web-app that allows users to create quick signatures. 
+-Developed a responsive web application using React.js and TailwindCSS for creating and sending e-signatures. Ensured optimal performance and user experience, allowing users to easily generate and embed digital signatures in documents.
 The app supports saving signatures and offers customization options for font size and color.
 
 -Pure HTML and CSS and JavaScript used
